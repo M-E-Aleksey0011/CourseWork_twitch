@@ -1,0 +1,3 @@
+twitchAPI
+aiogram
+openai
